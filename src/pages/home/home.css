@@ -1,0 +1,14 @@
+.main{
+    width: 40vw;
+    margin: auto;
+    height: 100vh;
+    background: #d3d2d2;
+}
+.question-bar{
+    height: 20px;
+    background-color: rgb(137, 137, 137);
+}
+.quiz-section{
+    padding: 40px 80px;
+}
+
